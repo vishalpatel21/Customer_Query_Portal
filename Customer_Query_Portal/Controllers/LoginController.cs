@@ -25,7 +25,7 @@ namespace Customer_Query_Portal.Controllers
 
         [HttpGet]
         public async Task<IActionResult> Login(Login login)
-        {
+        {            
             return Ok(await this._ILoginServices.VerifyLogin(login));
         }
     }

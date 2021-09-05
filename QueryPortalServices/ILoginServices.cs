@@ -5,6 +5,6 @@ namespace QueryPortalServices
 {
     public interface ILoginServices
     {
-        Task<bool> VerifyLogin(Login login);
+       Task<bool> VerifyLogin(Login login);
     }
 }
