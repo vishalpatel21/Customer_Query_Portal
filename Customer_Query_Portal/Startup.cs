@@ -12,7 +12,9 @@ namespace Customer_Query_Portal
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            //testc 
         }
+
 
         public IConfiguration Configuration { get; }
 
