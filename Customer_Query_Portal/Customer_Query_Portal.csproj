@@ -21,8 +21,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\QueryPortalRepositories\QueryPortalRepositories.csproj" />
-    <ProjectReference Include="..\..\QueryPortalServices\QueryPortalServices.csproj" />
+    <ProjectReference Include="..\QueryPortalModel\QueryPortalModel.csproj" />
+    <ProjectReference Include="..\QueryPortalRepositories\QueryPortalRepositories.csproj" />
+    <ProjectReference Include="..\QueryPortalServices\QueryPortalServices.csproj" />
   </ItemGroup>
 
   <Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">

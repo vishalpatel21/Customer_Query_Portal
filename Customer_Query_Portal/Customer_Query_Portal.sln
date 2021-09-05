@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Customer_Query_Portal", "Customer_Query_Portal.csproj", "{77866115-6989-4B4F-A1CC-7024EF82BA0B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueryPortalModel", "..\..\QueryPortalModel\QueryPortalModel.csproj", "{4225504A-A5DA-424E-BCF2-A48ABE614FFD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryPortalModel", "..\QueryPortalModel\QueryPortalModel.csproj", "{D4E8D1E3-6025-49E9-B52D-061F4C110E95}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueryPortalRepositories", "..\..\QueryPortalRepositories\QueryPortalRepositories.csproj", "{20B55DDB-97AB-46E8-9796-8FE767682EE9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryPortalRepositories", "..\QueryPortalRepositories\QueryPortalRepositories.csproj", "{4579E5E2-AD6A-43ED-BFB9-F77CAC479AA9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueryPortalServices", "..\..\QueryPortalServices\QueryPortalServices.csproj", "{66BBF6B5-6230-44A8-8CCC-010646503676}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryPortalServices", "..\QueryPortalServices\QueryPortalServices.csproj", "{2E82A1C7-A93A-4157-8571-C0A63F69C7AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,18 +21,18 @@ Global
 		{77866115-6989-4B4F-A1CC-7024EF82BA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77866115-6989-4B4F-A1CC-7024EF82BA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77866115-6989-4B4F-A1CC-7024EF82BA0B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4225504A-A5DA-424E-BCF2-A48ABE614FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4225504A-A5DA-424E-BCF2-A48ABE614FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4225504A-A5DA-424E-BCF2-A48ABE614FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4225504A-A5DA-424E-BCF2-A48ABE614FFD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{20B55DDB-97AB-46E8-9796-8FE767682EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{20B55DDB-97AB-46E8-9796-8FE767682EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{20B55DDB-97AB-46E8-9796-8FE767682EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{20B55DDB-97AB-46E8-9796-8FE767682EE9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{66BBF6B5-6230-44A8-8CCC-010646503676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{66BBF6B5-6230-44A8-8CCC-010646503676}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{66BBF6B5-6230-44A8-8CCC-010646503676}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{66BBF6B5-6230-44A8-8CCC-010646503676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4E8D1E3-6025-49E9-B52D-061F4C110E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E8D1E3-6025-49E9-B52D-061F4C110E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E8D1E3-6025-49E9-B52D-061F4C110E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E8D1E3-6025-49E9-B52D-061F4C110E95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4579E5E2-AD6A-43ED-BFB9-F77CAC479AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4579E5E2-AD6A-43ED-BFB9-F77CAC479AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4579E5E2-AD6A-43ED-BFB9-F77CAC479AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4579E5E2-AD6A-43ED-BFB9-F77CAC479AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E82A1C7-A93A-4157-8571-C0A63F69C7AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E82A1C7-A93A-4157-8571-C0A63F69C7AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E82A1C7-A93A-4157-8571-C0A63F69C7AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E82A1C7-A93A-4157-8571-C0A63F69C7AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+E:\GIT\Customer_Query_Portal\QueryPortalServices\bin\Debug\netstandard2.0\QueryPortalServices.deps.json
+E:\GIT\Customer_Query_Portal\QueryPortalServices\bin\Debug\netstandard2.0\QueryPortalServices.dll
+E:\GIT\Customer_Query_Portal\QueryPortalServices\bin\Debug\netstandard2.0\QueryPortalServices.pdb
+E:\GIT\Customer_Query_Portal\QueryPortalServices\bin\Debug\netstandard2.0\QueryPortalModel.dll
+E:\GIT\Customer_Query_Portal\QueryPortalServices\bin\Debug\netstandard2.0\QueryPortalRepositories.dll
+E:\GIT\Customer_Query_Portal\QueryPortalServices\bin\Debug\netstandard2.0\QueryPortalModel.pdb
+E:\GIT\Customer_Query_Portal\QueryPortalServices\bin\Debug\netstandard2.0\QueryPortalRepositories.pdb
+E:\GIT\Customer_Query_Portal\QueryPortalServices\obj\Debug\netstandard2.0\QueryPortalServices.csprojAssemblyReference.cache
+E:\GIT\Customer_Query_Portal\QueryPortalServices\obj\Debug\netstandard2.0\QueryPortalServices.csproj.CoreCompileInputs.cache
+E:\GIT\Customer_Query_Portal\QueryPortalServices\obj\Debug\netstandard2.0\QueryPortalServices.AssemblyInfoInputs.cache
+E:\GIT\Customer_Query_Portal\QueryPortalServices\obj\Debug\netstandard2.0\QueryPortalServices.AssemblyInfo.cs
+E:\GIT\Customer_Query_Portal\QueryPortalServices\obj\Debug\netstandard2.0\QueryPortalServices.csproj.CopyComplete
+E:\GIT\Customer_Query_Portal\QueryPortalServices\obj\Debug\netstandard2.0\QueryPortalServices.dll
+E:\GIT\Customer_Query_Portal\QueryPortalServices\obj\Debug\netstandard2.0\QueryPortalServices.pdb
