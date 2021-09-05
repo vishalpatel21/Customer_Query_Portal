@@ -19,7 +19,7 @@ namespace Customer_Query_Portal
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
+            services.AddMvc();
             services.AddControllersWithViews();
 
             // In production, the React files will be served from this directory
@@ -29,6 +29,19 @@ namespace Customer_Query_Portal
             });
 
             services.ServiceRegistation();
+
+            var info = new Microsoft.OpenApi.Models.OpenApiInfo()
+            {
+                Version = "v1",
+                Title = "Swagger Demo API",
+                Description = "Swagger Demo API Description"
+            };
+            
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", info);
+            });
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -55,15 +68,20 @@ namespace Customer_Query_Portal
                     pattern: "{controller}/{action=Index}/{id?}");
             });
 
-            app.UseSpa(spa =>
-            {
-                spa.Options.SourcePath = "ClientApp";
+            //app.UseSpa(spa =>
+            //{
+            //    spa.Options.SourcePath = "ClientApp";
 
-                if (env.IsDevelopment())
-                {
-                    spa.UseReactDevelopmentServer(npmScript: "start");
-                }
-            });
+            //    if (env.IsDevelopment())
+            //    {
+            //        spa.UseReactDevelopmentServer(npmScript: "start");
+            //    }
+            //});
+            
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+               c.SwaggerEndpoint("/swagger/v1/swagger.json", "Sample API")
+           );
         }
     }
 }
