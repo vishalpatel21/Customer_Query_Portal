@@ -10,3 +10,15 @@ E:\GIT\Customer_Query_Portal\QueryPortalRepositories\obj\Debug\netstandard2.0\Qu
 E:\GIT\Customer_Query_Portal\QueryPortalRepositories\obj\Debug\netstandard2.0\QueryPortalRepositories.csproj.CopyComplete
 E:\GIT\Customer_Query_Portal\QueryPortalRepositories\obj\Debug\netstandard2.0\QueryPortalRepositories.dll
 E:\GIT\Customer_Query_Portal\QueryPortalRepositories\obj\Debug\netstandard2.0\QueryPortalRepositories.pdb
+G:\Projects\Hitesh\QueryPortalRepositories\bin\Debug\netstandard2.0\QueryPortalRepositories.deps.json
+G:\Projects\Hitesh\QueryPortalRepositories\bin\Debug\netstandard2.0\QueryPortalRepositories.dll
+G:\Projects\Hitesh\QueryPortalRepositories\bin\Debug\netstandard2.0\QueryPortalRepositories.pdb
+G:\Projects\Hitesh\QueryPortalRepositories\bin\Debug\netstandard2.0\QueryPortalModel.dll
+G:\Projects\Hitesh\QueryPortalRepositories\bin\Debug\netstandard2.0\QueryPortalModel.pdb
+G:\Projects\Hitesh\QueryPortalRepositories\obj\Debug\netstandard2.0\QueryPortalRepositories.csprojAssemblyReference.cache
+G:\Projects\Hitesh\QueryPortalRepositories\obj\Debug\netstandard2.0\QueryPortalRepositories.AssemblyInfoInputs.cache
+G:\Projects\Hitesh\QueryPortalRepositories\obj\Debug\netstandard2.0\QueryPortalRepositories.AssemblyInfo.cs
+G:\Projects\Hitesh\QueryPortalRepositories\obj\Debug\netstandard2.0\QueryPortalRepositories.csproj.CoreCompileInputs.cache
+G:\Projects\Hitesh\QueryPortalRepositories\obj\Debug\netstandard2.0\QueryPortalRepositories.csproj.CopyComplete
+G:\Projects\Hitesh\QueryPortalRepositories\obj\Debug\netstandard2.0\QueryPortalRepositories.dll
+G:\Projects\Hitesh\QueryPortalRepositories\obj\Debug\netstandard2.0\QueryPortalRepositories.pdb

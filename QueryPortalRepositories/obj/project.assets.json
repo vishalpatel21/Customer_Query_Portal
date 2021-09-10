@@ -196,24 +196,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+    "C:\\Users\\Vishal\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GIT\\Customer_Query_Portal\\QueryPortalRepositories\\QueryPortalRepositories.csproj",
+      "projectUniqueName": "G:\\Projects\\Hitesh\\QueryPortalRepositories\\QueryPortalRepositories.csproj",
       "projectName": "QueryPortalRepositories",
-      "projectPath": "E:\\GIT\\Customer_Query_Portal\\QueryPortalRepositories\\QueryPortalRepositories.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "E:\\GIT\\Customer_Query_Portal\\QueryPortalRepositories\\obj\\",
+      "projectPath": "G:\\Projects\\Hitesh\\QueryPortalRepositories\\QueryPortalRepositories.csproj",
+      "packagesPath": "C:\\Users\\Vishal\\.nuget\\packages\\",
+      "outputPath": "G:\\Projects\\Hitesh\\QueryPortalRepositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Vishal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -225,8 +228,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "E:\\GIT\\Customer_Query_Portal\\QueryPortalModel\\QueryPortalModel.csproj": {
-              "projectPath": "E:\\GIT\\Customer_Query_Portal\\QueryPortalModel\\QueryPortalModel.csproj"
+            "G:\\Projects\\Hitesh\\QueryPortalModel\\QueryPortalModel.csproj": {
+              "projectPath": "G:\\Projects\\Hitesh\\QueryPortalModel\\QueryPortalModel.csproj"
             }
           }
         }
@@ -257,7 +260,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
       }
     }
   }

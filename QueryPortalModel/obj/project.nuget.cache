@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "nmEp8/J0UOS6mlPvx09L8HqbaRPILLNCAXx1SqZEY0uQ6dtxNbl+eqMx24x2nSwSLrB5w2zEtooNvesbyrggCQ==",
+  "dgSpecHash": "z8zAHj/5PKmLvUKq9kntQ0yD9OFwha15RJJ8dC8g0n21/BKSUZbOUFmCVNxSK1qCijuqHthPrqaegWx/xmdiqA==",
   "success": true,
-  "projectFilePath": "E:\\GIT\\Customer_Query_Portal\\QueryPortalModel\\QueryPortalModel.csproj",
+  "projectFilePath": "G:\\Projects\\Hitesh\\QueryPortalModel\\QueryPortalModel.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Vishal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Vishal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
